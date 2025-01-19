@@ -186,7 +186,11 @@ span{
   justify-content: space-between;
   align-items: center;
   padding: 0.5em 0;
+  border: 0;
   border-bottom: 1px solid #636363;
+  width: 100%;
+  background-color: #333;
+  text-align: start;
 }
 
 .date-Row{
@@ -206,4 +210,13 @@ span{
 
 .whoToWho, .detailParagraph, .currentBalance{
   font-size: 0.85rem;
+}
+
+.redCash{
+  color: rgb(179, 0, 0);
+  font-size: 0.87rem;
+}
+
+.currentBalance, .whoToWho{
+  color: white;
 }

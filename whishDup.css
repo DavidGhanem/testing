@@ -220,3 +220,31 @@ span{
 .currentBalance, .whoToWho{
   color: white;
 }
+
+.rest{
+  font-size: 0.87rem;
+}
+
+.size{
+  height: 170px;
+}
+
+.divider{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  padding: 1em;
+}
+
+.redCashModal{
+  color: rgb(179, 0, 0);
+  font-size: 0.87rem;
+
+}
+
+.right{
+  width:100%;
+  display: flex;
+  justify-content: end;
+}

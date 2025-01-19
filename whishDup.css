@@ -227,7 +227,7 @@ span{
 
 .size{
   height: 170px;
-  width: 89%
+  width: 100%
 }
 
 .divider{
@@ -253,7 +253,7 @@ span{
 .against{
   display: flex;
   justify-content: space-between;
-  width: 255px;
+  width: 300px;
 }
 
 .fa-solid{

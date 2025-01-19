@@ -222,12 +222,12 @@ span{
 }
 
 .rest{
-  font-size: 0.87rem;
+  font-size: 0.8rem;
 }
 
 .size{
   height: 170px;
-  width: 90%
+  width: 93%
 }
 
 .divider{
@@ -253,7 +253,7 @@ span{
 .against{
   display: flex;
   justify-content: space-between;
-  width: 310px;
+  width: 275px;
 }
 
 .fa-solid{

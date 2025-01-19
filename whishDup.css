@@ -227,6 +227,7 @@ span{
 
 .size{
   height: 170px;
+  width: 300px
 }
 
 .divider{
@@ -247,4 +248,10 @@ span{
   width:100%;
   display: flex;
   justify-content: end;
+}
+
+.against{
+  display: flex;
+  justify-content: space-between;
+  width: 255px;
 }
